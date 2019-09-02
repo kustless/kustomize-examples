@@ -4,4 +4,4 @@ data:
   enableRisky: "false"
 kind: ConfigMap
 metadata:
-  name: the-map
+  name: cm
